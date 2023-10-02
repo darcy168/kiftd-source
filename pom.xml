@@ -124,7 +124,7 @@
 		<dependency>
 			<groupId>com.lowagie</groupId>
 			<artifactId>itext</artifactId>
-			<version>2.1.7</version>
+			<version>4.2.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/fr.opensagres.xdocreport/org.apache.poi.xwpf.converter.pdf -->
 		<dependency>
